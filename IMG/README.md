@@ -4,6 +4,6 @@
 
 - `@Rotherlaw` - Graphiste
 
-### Personnes hbilité à surveillé ce dossier :
+### Personnes habilité à surveillé ce dossier :
 
 - `@LeBoucFouYT` - Admin
