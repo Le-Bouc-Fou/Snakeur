@@ -4,6 +4,6 @@
 
 - `@loulou123546` - Codeur
 
-### Personnes hbilité à surveillé ce dossier :
+### Personnes habilité à surveillé ce dossier :
 
 - `@LeBoucFouYT` - Admin
