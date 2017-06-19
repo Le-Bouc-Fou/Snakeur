@@ -1,4 +1,4 @@
-<FONT size="50pt"><p align="center"><b>LISTE COMPLÈTE DES MÉCHANIQUE DE JEU</b></p></font>
+<p align="center"><b>LISTE COMPLÈTE DES MÉCHANIQUES DE JEU</b></p>
 
 ## Système de base
 
