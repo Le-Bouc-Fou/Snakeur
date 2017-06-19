@@ -1,5 +1,5 @@
 # LISTE COMPLÈTE DES MÉCHANIQUE DE JEU
-## Systèmes de base
+## Système de base
 
 ### Mode "Snake Classique" (SURVIE)
 #### Gameplay
