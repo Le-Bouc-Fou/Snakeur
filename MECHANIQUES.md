@@ -1,2 +1,2 @@
 # Commencer à écrire
-<span style="underline;"> Systhèmes de base <tt> </span>
+<span style="underline;"> Systhèmes de base </span>
