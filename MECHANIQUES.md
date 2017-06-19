@@ -3,7 +3,7 @@
 
 ### Mode "Snake Classique" (SURVIE)
 #### Gameplay
-<SPAN style="color: red">
+<span style="color:red;">
 - Le personnage avance pour récuperer des points qui le feront grandir et augmenteront le score.
 - Si le personnage touche son corps il meurt. 
 </span>
