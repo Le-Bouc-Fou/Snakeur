@@ -1,4 +1,5 @@
-# LISTE COMPLÈTE DES MÉCHANIQUE DE JEU
+<p align="center"><b>LISTE COMPLÈTE DES MÉCHANIQUE DE JEU</b></p>
+
 ## Système de base
 
 ### Mode "Arcade" (SURVIE)
