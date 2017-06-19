@@ -1,4 +1,4 @@
-<p align="center"><b>LISTE COMPLÈTE DES MÉCHANIQUES DE JEU</b></p>
+# LISTE COMPLÈTE DES MÉCHANIQUES DE JEU
 
 ## Système de base
 
