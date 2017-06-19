@@ -4,5 +4,5 @@
 ### Mode "Snake Classique"
 #### Gameplay
 
-- Le personnage avance pour recuperer des points qui le feront grandir.
-- Si le personnage touche son corps il meurt.
+<tt>- Le personnage avance pour recuperer des points qui le feront grandir.
+- Si le personnage touche son corps il meurt.</tt>
