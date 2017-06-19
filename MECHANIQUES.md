@@ -6,5 +6,4 @@
 
 - Le personnage avance pour récuperer des points qui le feront grandir.
 - Si le personnage touche son corps il meurt.
-+ fezf
-" dzsDZ 3
+##### - f
