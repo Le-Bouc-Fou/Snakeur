@@ -1,4 +1,4 @@
-<p align="center"><b>ITEMS</b></p>
+<p align="center"><b>ITEM</b></p>
 
 
 Item définition : *Item* est un mot utiliser dans les jeux. Cela exprime un objet pouvant être ramassé/collecté par un joueur ou un PNJ(Personnage-Non-Joueur) Il peut effectuer bonus ou bien de smalus (Effets positifs/négatifs). Ils peuvent être permanent ou temporaire.
