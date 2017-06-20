@@ -8,3 +8,8 @@ Exemple 2 : Bonus/Malus de vitesse, de score, de degâts : temporaire.
 
 ** Item veut dire "ARTICLE" mot utiliser par les joueurs français alors qu'il vient de la langue anglaise.
 
+
+Liste :
+
+
+
