@@ -5,3 +5,6 @@
 - Musique
 - Matrice
 - Horreur
+- Temporel
+- JumpFood
+
