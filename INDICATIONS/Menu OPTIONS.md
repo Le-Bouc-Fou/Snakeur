@@ -11,8 +11,8 @@
 ## Audio
 
 - Volume principal
-- Musique <b>(BAISSER / DÉSACTIVER)</b> 
-- Effets sonores <b>(BAISSER / DÉSACTIVER)</b>
+- Musique <b>(RÉGLER / DÉSACTIVER)</b> 
+- Effets sonores <b>(RÉGLER / DÉSACTIVER)</b>
 ## Contrôles
 
 
