@@ -15,12 +15,6 @@
 - Effets sonores <b>(BAISSER / DESACTIVER)</b>
 ## Contrôles
 
-- Avancer *Z*
-- Reculer *S*
-- Gauche *Q*
-- Droite *D*
-- Attaque de base *CLIQUE GAUCHE*
-- Turbo *ESPACE*
 
 |Avancer |Reculer |Gauche |Droite |Attaque de base |Turbo |
 |:-------|:-------|:------|:------|:---------------|------|
