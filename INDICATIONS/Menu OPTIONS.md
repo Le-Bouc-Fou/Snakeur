@@ -15,10 +15,10 @@
 - Effets sonores <b>(BAISSER / DESACTIVER)</b>
 ## Contrôles
 
-- Avancer
-- Reculer
-- Gauche
-- Droite
-- Attaque de base
-- Turbo
+- Avancer ------------------------------------------------------------------------------------------------------------------------------ Z
+- Reculer "s"
+- Gauche "q"
+- Droite "d"
+- Attaque de base "clique gauche"
+- Turbo "espace"
 
