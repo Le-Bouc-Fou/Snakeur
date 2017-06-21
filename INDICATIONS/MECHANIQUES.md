@@ -6,6 +6,7 @@
 #### Gameplay
 
 - Le personnage avance pour récuperer des points qui le feront grandir et augmenteront le score.
+- Impossibilité pour le personnege de s'arrêter.
 - Si le personnage touche son corps il meurt. 
 - <b><i> Items qui spawn aléatoirement.
 -  Ennemis qui spawn à intervalle de temps régulier.
@@ -16,5 +17,6 @@
 #### Gameplay
 
 - Le personnage avance pour récuperer des points qui le feront accélerer.
+- Impossibilité pour le personnege de s'arrêter.
 - Si le personnage entre en collision avec un mur ....................
 - Si le personnage entre en collision avec une entité ....................
