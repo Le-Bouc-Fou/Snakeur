@@ -1,4 +1,4 @@
-# _LISTE COMPLÈTE DES MÉCANIQUES DE JEU_
+# __LISTE COMPLÈTE DES MÉCANIQUES DE JEU__
 
 ## Système de base
 
@@ -20,3 +20,4 @@
 - Impossibilité pour le personnage de s'arrêter.
 - Si le personnage entre en collision avec un mur ....................
 - Si le personnage entre en collision avec une entité ....................
+ 
