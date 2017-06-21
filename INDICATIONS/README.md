@@ -1,1 +1,1 @@
-# Vous trouverez ici toutes les informations a propos du jeux
+# Vous trouverez ici toutes les informations a propos du jeu
