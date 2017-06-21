@@ -1,10 +1,10 @@
-# Dossier réserver au Graphiste
+# Dossier réservé au Graphiste
 
-### Personnes habilité à modifié ce dossiers :
+### Personnes habilitées à modifier ce dossiers :
 
 - `@Rotherlaw` - Graphiste
 - `@obonhomme` - Level Designer
 
-### Personnes habilité à surveillé ce dossier :
+### Personnes habilitéés à surveiller ce dossier :
 
 - `@LeBoucFouYT` - Admin
