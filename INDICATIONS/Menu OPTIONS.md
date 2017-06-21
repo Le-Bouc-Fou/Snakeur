@@ -21,6 +21,7 @@
 - Droite *D*
 - Attaque de base *CLIQUE GAUCHE*
 - Turbo *ESPACE*
+
 |Avancer |Reculer |Gauche |Droite |Attaque de base |Turbo |
 |:-------|:-------|:------|:------|:---------------|------|
 |Z       |S       |Q      |D      |Clique Gauche   |Espace|
