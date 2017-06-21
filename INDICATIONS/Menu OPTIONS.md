@@ -11,11 +11,11 @@
 ## Audio
 
 - Volume principal
-- Musique <b>(BAISSER / DESACTIVER)</b> 
-- Effets sonores <b>(BAISSER / DESACTIVER)</b>
+- Musique <b>(BAISSER / DÉSACTIVER)</b> 
+- Effets sonores <b>(BAISSER / DÉSACTIVER)</b>
 ## Contrôles
 
 
 |Avancer |Reculer |Gauche |Droite |Attaque de base |Turbo |
 |:-------|:-------|:------|:------|:---------------|------|
-|Z       |S       |Q      |D      |Clique Gauche   |Espace|
+|Z       |S       |Q      |D      |CLIQUE GAUCHE   |ESPACE|
