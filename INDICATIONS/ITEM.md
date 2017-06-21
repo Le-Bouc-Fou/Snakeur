@@ -4,7 +4,7 @@
 ## Malus Score
 ## Arme
 ## Upgrade *(TEMPORAIRE)* 
-
+- Bouclier
 
 
 
