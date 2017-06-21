@@ -1,7 +1,7 @@
 
 - Candy
 - Futuriste
-- Campagnard
+- Rural
 - Musique
-- "Code"
-- Horreur/Halloween
+- Matrice
+- Horreur
