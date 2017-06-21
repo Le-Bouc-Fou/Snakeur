@@ -1,7 +1,7 @@
 
-Candy
-Futuriste
-Campagnard
-Musique
-"Code"
-Horreur/Halloween
+- Candy
+- Futuriste
+- Campagnard
+- Musique
+- "Code"
+- Horreur/Halloween
