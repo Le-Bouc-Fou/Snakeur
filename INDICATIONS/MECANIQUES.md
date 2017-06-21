@@ -1,4 +1,4 @@
-# __LISTE COMPLÈTE DES MÉCANIQUES DE JEU__
+__LISTE COMPLÈTE DES MÉCANIQUES DE JEU__
 
 ## Système de base
 
