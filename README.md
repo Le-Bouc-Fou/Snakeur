@@ -6,5 +6,5 @@
 
 ### Feature du jeu :
 - système de niveaux
-- Des cartes aléatoires et créer par la communauté
-- Un mode multijoueur !
+- cartes aléatoires et crées par la communauté
+- mode multijoueur 
