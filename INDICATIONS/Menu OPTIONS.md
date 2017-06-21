@@ -16,6 +16,6 @@
 ## Contrôles
 
 
-|Avancer  |Reculer  |Gauche  |Droite  |Attaque de base  |Turbo  |
-|:-------:|:-------:|:------:|:------:|:---------------:|------:|
-|Z        |S        |Q       |D       |CLIQUE GAUCHE    |ESPACE |
+|Avancer  |Reculer  |Gauche  |Droite  |Attaque de base  |Utilisation Item     |Turbo  |
+|:-------:|:-------:|:------:|:------:|:---------------:|:-------------------:|:-----:| 
+|Z        |S        |Q       |D       |CLIQUE GAUCHE    |CLIQUE DROIT         |ESPACE | 
