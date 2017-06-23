@@ -47,3 +47,8 @@ CONTROLES
 |  |- turbo (?)
 |  |- use item (?)
 ```
+---
+
+|Avancer  |Reculer  |Gauche  |Droite  |Attaque de base  |Utilisation Item     |Turbo  |
+|:-------:|:-------:|:------:|:------:|:---------------:|:-------------------:|:-----:| 
+|Z        |S        |Q       |D       |CLIQUE GAUCHE    |CLIQUE DROIT         |ESPACE | 
