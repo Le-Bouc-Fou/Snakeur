@@ -1,5 +1,4 @@
-
-
+```
 LANGUE ------- |
                |-----Français
                |-----Español
@@ -13,3 +12,4 @@ AUDIO--------  |
                |
 CONTROLES----  |
                |-----Tableau
+```
