@@ -12,6 +12,8 @@
 - Caisse à briser grâce au pouvoir d'un item.
 
 ## Level 5
-- Epouventail (monstre inactif) à battre avec l'attaque de base.
+- Épouvantail (monstre inactif) à battre avec l'attaque de base.
 
 ## Level 6
+- Score à atteindre avec drop d'item et boss.
+- Mini boss à battre avec attaque de base ou pouvoir de l'item.
