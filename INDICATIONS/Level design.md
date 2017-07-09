@@ -6,7 +6,7 @@
 - Score à atteindre avec le drop de bonus.
 
 ## Level 3
-- Caisse à briser avec l'attaque de base pour récupérer l'bonus qu'elle contient.
+- Caisse à briser avec l'attaque de base pour récupérer le bonus qu'elle contient.
 
 ## Level 4
 - Caisse à briser grâce au pouvoir d'un item.
