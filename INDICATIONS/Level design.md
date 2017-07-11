@@ -3,8 +3,6 @@
 - Bonus à drop
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 ## Level 2
 - Score à atteindre avec le drop de bonus.
 
@@ -20,4 +18,5 @@
 ## Level 6
 - Score à atteindre avec drop d'item et boss.
 - Mini boss à battre avec attaque de base ou pouvoir
-(https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
+
+[Image](https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
