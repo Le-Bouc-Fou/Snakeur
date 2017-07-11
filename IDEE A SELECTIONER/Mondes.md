@@ -2,7 +2,7 @@
 - [ ] Futuriste
 - [ ] Rural
 - [ ] Musique
-- [ ] Matrice
-- [ ] Horreur
-- [ ] Temporel
-- [ ] JumkFood
+- Matrice
+- [x] Horreur
+- [x] Temporel
+- [x] JunkFood
