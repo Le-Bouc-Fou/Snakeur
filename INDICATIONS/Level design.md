@@ -19,4 +19,4 @@
 - Score à atteindre avec drop d'item et boss.
 - Mini boss à battre avec attaque de base ou pouvoir
 
-[Image](https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
+[Image of level_6](https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
