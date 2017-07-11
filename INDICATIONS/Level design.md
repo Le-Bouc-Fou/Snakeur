@@ -2,7 +2,7 @@
 - Map vide
 - Bonus à drop
 
-
+![](https://cdn.discordapp.com/attachments/322137761190772747/322139281378246656/91577.gif)
 ## Level 2
 - Score à atteindre avec le drop de bonus.
 
