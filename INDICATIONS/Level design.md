@@ -2,6 +2,9 @@
 - Map vide
 - Bonus à drop
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Level 2
 - Score à atteindre avec le drop de bonus.
 
