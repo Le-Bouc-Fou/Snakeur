@@ -20,3 +20,10 @@
 - Mini boss à battre avec attaque de base ou pouvoir
 
 ![Level 6](https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
+
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
