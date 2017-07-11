@@ -1,8 +1,8 @@
-- [] Candy
-- [] Futuriste
-- [] Rural
-- [] Musique
-- [] Matrice
-- [] Horreur
-- [] Temporel
-- [] JumkFood
+- [ ] Candy
+- [ ] Futuriste
+- [ ] Rural
+- [ ] Musique
+- [ ] Matrice
+- [ ] Horreur
+- [ ] Temporel
+- [ ] JumkFood
