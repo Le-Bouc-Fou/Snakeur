@@ -17,3 +17,6 @@
 ## Level 6
 - Score à atteindre avec drop d'item et boss.
 - Mini boss à battre avec attaque de base ou pouvoir de l'item.
+
+![Image of level]
+(https://cdn.discordapp.com/attachments/326452910303215627/334084452072423424/Level_Design_6.png)
